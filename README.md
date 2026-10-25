@@ -7,10 +7,10 @@ Vivado 可参数化多路4选1 MUX，支持配置数据位宽 WIDTH。
 - y             : 输出
 
 ## 功能
-sel=00 → y=d0
-sel=01 → y=d1
-sel=10 → y=d2
-sel=11 → y=d3
+- sel=00 → y=d0
+- sel=01 → y=d1
+- sel=10 → y=d2
+- sel=11 → y=d3
 
 ## 使用方式
 1. 将mux4_1.v添加到Vivado工程
